@@ -1,0 +1,21 @@
+h1{
+    font-family: system-ui;
+    color: rebeccapurple;
+    text-align: center;
+    text-decoration:underline;
+    margin: 50px;
+}
+figure{
+    margin: 7.5px;
+    width: 100%;
+    text-align: center;
+}
+.subtitulos{
+    font-family: system-ui;
+    color: mediumpurple;
+    text-decoration: underline;
+}
+.parrafos{
+    font-family: system-ui;
+    text-align: justify;
+}

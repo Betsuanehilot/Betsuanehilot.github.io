@@ -1,0 +1,22 @@
+.subtitulos{
+    font-family: system-ui;
+    color: rebeccapurple;
+    text-align: center;
+    text-decoration:underline;
+    margin: 50px;
+}
+.imagenes{
+    width: 100%;
+    display: inline-block;
+    float:center;
+    margin: 7.5 px;
+    text-align: center;
+}
+.parrafos{
+    font-family: system-ui;
+    text-align: justify;
+}
+.valores{
+    color: red;
+    text-shadow: red 3px 6px 6px;
+}

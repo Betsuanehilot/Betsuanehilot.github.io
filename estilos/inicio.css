@@ -1,0 +1,19 @@
+#titulo{
+    display: inline-block;
+    color: slateblue;
+    font-family: system-ui;
+    text-align: center;
+    width: 55%;
+}
+#imagen{
+    display: inline-block;
+    float: left;
+}
+.parrafo{
+    font-family: system-ui;
+    font-size: 1.1em;
+    text-align: justify;
+    width: 
+    
+    
+}

@@ -1,0 +1,35 @@
+h1{
+    font-family: system-ui;
+    color: rebeccapurple;
+    text-align: center;
+    text-decoration:underline;
+    margin: 50px;
+}
+#imagenmain{
+    width: 100%;
+    display: inline-block;
+    float:center;
+    margin: 7.5 px;
+    text-align: center;
+}
+#concepto{
+    font-family: cursive;
+    border: double;
+    border-color: darkblue;
+    background-color: lightcyan;
+    text-align: center;
+}
+.subtitulos{
+    font-family: system-ui;
+    color: mediumpurple;
+    text-decoration: overline;
+}
+.parrafos{
+    font-family: system-ui;
+    text-align: justify;
+}
+.imagenes{
+    margin: 7.5px;
+    width: 100%;
+    text-align: center;
+}

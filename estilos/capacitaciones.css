@@ -1,0 +1,36 @@
+#titulo{
+    font-family: system-ui;
+    color: rebeccapurple;
+    text-align: center;
+    text-decoration:underline;
+    margin: 50px;
+}
+#imagencentral{
+    width: 100%;
+    display: inline-block;
+    float:center;
+    margin: 7.5 px;
+    text-align: center;
+}
+.subtitulos{
+    font-family: system-ui;
+    color: mediumpurple;
+    text-decoration: underline;
+}
+.parrafo{
+    font-family: system-ui;
+}
+#parrafo1{
+    font-family: cursive;
+    border: double;
+    border-color: darkblue;
+    background-color: lightcyan;
+    text-align: center;
+}
+.imagenes{
+    width: 100%;
+    display: inline-block;
+    float:center;
+    margin: 7.5 px;
+    text-align: center;
+}
